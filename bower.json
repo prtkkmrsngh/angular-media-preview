@@ -1,0 +1,25 @@
+{
+  "name": "angular-media-preview",
+  "description": "create a preview for each media file given in input",
+  "main": "dist/angular-media-preview.js",
+  "authors": [
+    "codekraft-studio"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angularjs",
+    "media",
+    "preview",
+    "input",
+    "file"
+  ],
+  "homepage": "https://github.com/prtkkmrsngh/angular-media-preview",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
